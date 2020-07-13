@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" overflow="visible" viewBox="0 0 94.6 94.6">
+  <style>
+  </style>
+  <radialGradient id="SVGID_1_" cx="43.894" cy="9.454" r="155.47" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fffad2"/>
+    <stop offset=".117" stop-color="#fef3c0"/>
+    <stop offset=".349" stop-color="#f3de92"/>
+    <stop offset=".371" stop-color="#f2dc8e"/>
+    <stop offset=".685" stop-color="#f0bf00"/>
+    <stop offset="1" stop-color="#c9961a"/>
+  </radialGradient>
+  <path d="M89.1 9.9h-4.4V0H75v4.5H19.6V0H9.9v9.9H0v9.6h4.5V75H0v9.6h9.9v9.9h9.6V90H75v4.5h9.6v-9.9h9.9V75H90V19.6h4.5V9.9h-5.4zm4.5 1v3.3h-3.5v-3.3h3.5zm-4.5 0v3.3h-3.5v-3.3h3.5zm0 7.7h-3.5v-3.3h3.5v3.3zm-9.7 60.8v5.2H76V76h8.5v3.3h-5.1zm5.1 1v4.2h-4.2v-4.2h4.2zm-5.1 5.1V89H76v-3.5h3.4zm6.1-9.5H89v3.3h-3.5V76zm-1-1H75v9.5H19.6V75h-9.5V19.6h9.5v-9.5H75v9.5h9.5V75zM18.6 89.1h-3.3v-3.5h3.3v3.5zm-3.4-4.6v-5.2H10V76h8.5v8.5h-3.3zm-1 0H10v-4.2h4.2v4.2zM5.5 76H9v3.3H5.5V76zm9.7-60.8V10h3.3v8.5H10v-3.3h5.2zm-5.1-1V10h4.2v4.2h-4.2zm5.1-5.1V5.5h3.3V9h-3.3zm-6.1 9.5H5.5v-3.3H9v3.3zm66.9 0v-8.5h3.3v5.2h5.2v3.3H76zm0-13.1h3.3V9H76V5.5zm4.4 4.6h4.2v4.2h-4.2v-4.2zm3.3-1h-3.3V5.5h3.3v3.6zm0-8.1v3.5h-3.3V1h3.3zM76 1h3.3v3.5H76V1zm-1 4.5V9H19.6V5.5H75zM18.6 1v3.5h-3.3V1h3.3zm-7.7 0h3.3v3.5h-3.3V1zm3.3 4.5V9h-3.3V5.5h3.3zm-5.1 5.4v3.3H5.5v-3.3h3.6zm-8.1 0h3.5v3.3H1v-3.3zm0 7.7v-3.3h3.5v3.3H1zm4.5 1H9V75H5.5V19.6zM1 76h3.5v3.3H1V76zm0 7.7v-3.3h3.5v3.3H1zm4.5 0v-3.3H9v3.3H5.5zm5.4 1.8h3.3V89h-3.3v-3.5zm0 8.1v-3.5h3.3v3.5h-3.3zm7.7 0h-3.3v-3.5h3.3v3.5zm1-4.5v-3.5H75v3.5H19.6zM76 93.6v-3.5h3.3v3.5H76zm7.7 0h-3.3v-3.5h3.3v3.5zm-3.3-4.5v-3.5h3.3v3.5h-3.3zm5.1-5.4v-3.3H89v3.3h-3.5zm8.1 0h-3.5v-3.3h3.5v3.3zm0-7.7v3.3h-3.5V76h3.5zm-4.5-1h-3.5V19.6h3.5V75zm4.5-56.4h-3.5v-3.3h3.5v3.3z" fill="url(#SVGID_1_)"/>
+  <radialGradient id="SVGID_2_" cx="43.894" cy="9.454" r="155.47" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fffad2"/>
+    <stop offset=".117" stop-color="#fef3c0"/>
+    <stop offset=".349" stop-color="#f3de92"/>
+    <stop offset=".371" stop-color="#f2dc8e"/>
+    <stop offset=".685" stop-color="#f0bf00"/>
+    <stop offset="1" stop-color="#c9961a"/>
+  </radialGradient>
+  <path d="M5 9.1c2.3 0 4.1-1.8 4.1-4.1S7.3 1 5 1 1 2.8 1 5s1.8 4.1 4 4.1zM5 2c1.7 0 3.1 1.3 3.1 3S6.7 8.1 5 8.1 2 6.7 2 5s1.3-3 3-3z" fill="url(#SVGID_2_)"/>
+  <radialGradient id="SVGID_3_" cx="43.894" cy="9.454" r="155.47" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fffad2"/>
+    <stop offset=".117" stop-color="#fef3c0"/>
+    <stop offset=".349" stop-color="#f3de92"/>
+    <stop offset=".371" stop-color="#f2dc8e"/>
+    <stop offset=".685" stop-color="#f0bf00"/>
+    <stop offset="1" stop-color="#c9961a"/>
+  </radialGradient>
+  <path d="M89.6 9.1c2.3 0 4.1-1.8 4.1-4.1s-1.9-4-4.1-4-4.1 1.8-4.1 4 1.8 4.1 4.1 4.1zm0-7.1c1.7 0 3.1 1.4 3.1 3.1s-1.4 3.1-3.1 3.1-3.1-1.5-3.1-3.2 1.4-3 3.1-3z" fill="url(#SVGID_3_)"/>
+  <radialGradient id="SVGID_4_" cx="43.894" cy="9.454" r="155.47" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fffad2"/>
+    <stop offset=".117" stop-color="#fef3c0"/>
+    <stop offset=".349" stop-color="#f3de92"/>
+    <stop offset=".371" stop-color="#f2dc8e"/>
+    <stop offset=".685" stop-color="#f0bf00"/>
+    <stop offset="1" stop-color="#c9961a"/>
+  </radialGradient>
+  <path d="M5 85.5c-2.3 0-4.1 1.8-4.1 4.1s1.8 4.1 4.1 4.1 4.1-1.8 4.1-4.1-1.8-4.1-4.1-4.1zm0 7.1c-1.7 0-3.1-1.4-3.1-3.1s1.4-3.1 3.1-3.1 3.1 1.4 3.1 3.1-1.4 3.1-3.1 3.1z" fill="url(#SVGID_4_)"/>
+  <radialGradient id="SVGID_5_" cx="43.894" cy="9.454" r="155.47" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fffad2"/>
+    <stop offset=".117" stop-color="#fef3c0"/>
+    <stop offset=".349" stop-color="#f3de92"/>
+    <stop offset=".371" stop-color="#f2dc8e"/>
+    <stop offset=".685" stop-color="#f0bf00"/>
+    <stop offset="1" stop-color="#c9961a"/>
+  </radialGradient>
+  <path d="M89.6 85.5c-2.3 0-4.1 1.8-4.1 4.1s1.8 4.1 4.1 4.1 4.1-1.8 4.1-4.1-1.9-4.1-4.1-4.1zm0 7.1c-1.7 0-3.1-1.4-3.1-3.1s1.4-3.1 3.1-3.1 3.1 1.4 3.1 3.1-1.4 3.1-3.1 3.1z" fill="url(#SVGID_5_)"/>
+</svg>
