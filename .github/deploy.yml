@@ -1,0 +1,14 @@
+name: Rebuild and Deploy to gh-pages
+on:
+  push:	
+    branches:	
+      - master
+jobs:
+  deploy:
+    - name: Deploy to gh-pages
+      uses: s0/git-publish-subdir-action@master
+      env:
+        REPO: self
+        BRANCH: gh-pages
+        FOLDER: _site
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

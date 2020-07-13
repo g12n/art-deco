@@ -1,2 +1,2 @@
 # art-deco
- a style-stage-theme
+A Style Stage Theme by Michael Gehrmann
