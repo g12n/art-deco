@@ -3,9 +3,15 @@ on:
   push:	
     branches:	
       - master
+  schedule:
+    - cron:  '2 22 * * *'
+
 jobs:
   deploy:
-      name: Deploy to gh-pages
+    name: Deploy
+    runs-on: ubuntu-latest    
+    steps:
+    - name: Deploy to gh-pages
       uses: s0/git-publish-subdir-action@master
       env:
         REPO: self
