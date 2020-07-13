@@ -5,7 +5,7 @@ on:
       - master
 jobs:
   deploy:
-    - name: Deploy to gh-pages
+      name: Deploy to gh-pages
       uses: s0/git-publish-subdir-action@master
       env:
         REPO: self
