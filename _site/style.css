@@ -74,6 +74,21 @@ body {
     padding: 0vw;
 }
 
+@media (max-width: 600px){
+  body {
+    display: grid; 
+    grid-template-areas: 
+      "header "
+      "nav"
+      "main"
+      "profiles"
+      "styles"
+      "footer";
+      grid-gap: 0vw;
+      padding: 0vw;
+  }
+}
+
 header{
   grid-area: header;
 
