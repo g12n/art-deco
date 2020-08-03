@@ -26,7 +26,6 @@ module.exports = class {
     // require('postcss-color-mix'),
       require('cssnano'), 
       autoprefixer({ grid: "autoplace", env:"last 3 version" }),
-      require('postcss-prettify')
     ])
     .process(rawCss, { from: rawFilepath })
     .then(result => result.css);
