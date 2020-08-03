@@ -1,0 +1,31 @@
+{
+  "name": "art-deco",
+  "version": "1.0.0",
+  "description": "art deco theme for style-stage ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g12n/art-deco.git"
+  },
+  "author": "g12n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g12n/art-deco/issues"
+  },
+  "homepage": "https://github.com/g12n/art-deco#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "autoprefixer": "^9.8.6",
+    "cssnano": "^4.1.10",
+    "postcss": "^7.0.32",
+    "postcss-extend": "^1.0.5",
+    "postcss-import": "^12.0.1",
+    "postcss-mixins": "^6.2.3",
+    "postcss-prettify": "^0.3.4"
+  }
+}

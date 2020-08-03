@@ -1,10 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Lora&family=Poiret+One&display=swap");
+@import url("//fonts.googleapis.com/css2?family=Poiret+One&display=swap");
 
+
+*{box-sizing: border-box;}
 :root {
   --background: hsl(213 51% 31%);
   --color: #fff;
-  --link-color: #fff;
-
+  --link-color: #FFF;
   --gold: linear-gradient(
     141deg,
     rgba(227, 190, 123, 1) 0%,
@@ -17,8 +18,6 @@
     rgba(227, 199, 152, 1) 72%,
     rgba(185, 134, 43, 1) 100%
   );;
-
-
 }
 
 
@@ -74,6 +73,11 @@ body {
     padding: 0vw;
 }
 
+  article{
+    max-width: 56rem;
+    margin: 0 auto;
+  }
+
 @media (max-width: 600px){
   body {
     display: grid; 
@@ -113,7 +117,7 @@ h3 {
 }
 
 h1 {
-  font-size: min(10vw,73px);
+  font-size: min(5vh,24px);
   margin: 0;
 }
 
@@ -121,7 +125,7 @@ h1 {
   font-size: 2rem; 
 }
 h1 {
-  font-size: max(10vw, 2em, 2rem);
+  font-size: max(10vh, 2em, 2rem);
 }
 
 h2 {
@@ -168,14 +172,16 @@ nav ul {
 
 header {
   background: #274c79;
-  padding: 5vw;
+  padding: 3vw;
+  width: min(100vh, 100vw);
+
 }
 
 header .container {
-  display: grid;
-
+  display: flex;
+  flex-direction: column;
   text-align: center;
-  padding: 0 5vw;
+  
   color: #fff;
   
 }
@@ -184,7 +190,7 @@ header h1 {
   line-height: 1;
 }
 header h2 {
-  padding: 0 10vw;
+  padding: 0 10vh;
 }
 
 #about section ul {
@@ -252,7 +258,7 @@ header h2::after {
 
 article .container,
 header .container {
-  border: 10vw solid;
+  border: 10vh solid;
   border-image: url(https://assets.codepen.io/17271/border.svg);
   border-image-slice: 30%;
 }
